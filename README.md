@@ -33,8 +33,8 @@ Ensure that `nmap` is installed on your system. For installation instructions, r
 ## Setup
 1. Clone this repository:
 ```bash
-git clone https://github.com/yourusername/vulnerability-detection-tool.git
-cd vulnerability-detection-tool
+git clone https://github.com/Z3R0-D47/VulnReconX.git
+cd VulnReconX
 ```
 
 2. Run the main.py or equivalent script to start the GUI:
