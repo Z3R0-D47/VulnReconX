@@ -1,5 +1,5 @@
 # VulnReconX
-VulnReconX is a network vulnerability scanning tool that allows users to scan IP addresses or networks for open ports, services, and vulnerabilities. It provides detailed scan results, vulnerability information, recommendations for securing services, and support for notifications. This tool uses `nmap` for network scanning and stores recommendations and vulnerabilities in a local SQLite database.
+VulnReconX is a network vulnerability scanning tool that allows users to scan IP addresses or networks for open ports, services, and vulnerabilities. It provides detailed scan results, vulnerability information, recommendations for securing services, and support for notifications. This tool uses `nmap` for network scanning and stores recommendations and vulnerabilities in a local `SQLite` database.
 
 ## Features
 
